@@ -1,0 +1,9 @@
+[submodule "AP-Workshop1"]
+	path = AP-Workshop1
+	url = git@github.com:mehdinap/AP-Workshop1.git
+[submodule "AP-Workshop2"]
+	path = AP-Workshop2
+	url = git@github.com:mehdinap/AP-Workshop2.git
+[submodule "AP-Workshop3"]
+	path = AP-Workshop3
+	url = git@github.com:mehdinap/AP-Workshop3.git
