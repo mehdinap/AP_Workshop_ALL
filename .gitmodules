@@ -7,3 +7,6 @@
 [submodule "AP-Workshop3"]
 	path = AP-Workshop3
 	url = git@github.com:mehdinap/AP-Workshop3.git
+[submodule "AP-Workshop4"]
+	path = AP-Workshop4
+	url = git@github.com:mehdinap/AP-Workshop4.git
